@@ -1,0 +1,6 @@
+customer_name = "bgko"
+vpc_suffix = "vpc"
+vpc_cidr = "10.0.0.0/16"
+subnet_type = "PUBLIC"
+subnet_cidr = "10.0.1.0/24"
+subnet_zone = "KR-2"
